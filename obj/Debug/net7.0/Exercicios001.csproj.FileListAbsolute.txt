@@ -1,0 +1,15 @@
+C:\visualStudio\Exercicios001\Exercicios001\bin\Debug\net7.0\Exercicios001.exe
+C:\visualStudio\Exercicios001\Exercicios001\bin\Debug\net7.0\Exercicios001.deps.json
+C:\visualStudio\Exercicios001\Exercicios001\bin\Debug\net7.0\Exercicios001.runtimeconfig.json
+C:\visualStudio\Exercicios001\Exercicios001\bin\Debug\net7.0\Exercicios001.dll
+C:\visualStudio\Exercicios001\Exercicios001\bin\Debug\net7.0\Exercicios001.pdb
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\Exercicios001.csproj.AssemblyReference.cache
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\Exercicios001.GeneratedMSBuildEditorConfig.editorconfig
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\Exercicios001.AssemblyInfoInputs.cache
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\Exercicios001.AssemblyInfo.cs
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\Exercicios001.csproj.CoreCompileInputs.cache
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\Exercicios001.dll
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\refint\Exercicios001.dll
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\Exercicios001.pdb
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\Exercicios001.genruntimeconfig.cache
+C:\visualStudio\Exercicios001\Exercicios001\obj\Debug\net7.0\ref\Exercicios001.dll
